@@ -1,4 +1,6 @@
- # 猜数字小游戏
+ # 作者：zhujinsong2020
+ # 猜数字小游戏 
+# 猜数字小游戏
   import random
 
   print("=" * 30)
